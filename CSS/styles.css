@@ -1,0 +1,148 @@
+/***************************main Headings**************************/
+
+body{
+
+  text-align: center;
+  font-size: 18px;
+  font-family: "Bai Jamjuree", sans-serif;
+}
+
+h1,h2,h3 {
+  color: #4c545d;
+}
+
+p{
+  line-height: 2;
+  font-size: 18px;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 3rem;
+  color: #9fabb2;
+}
+
+/****************************Class Selectors*************************/
+/******************************Buttons*****************************/
+.btn{
+  color: #fff;
+  border: none;
+  padding-bottom: 30px;
+  position: relative;
+  right: 32rem;
+  bottom: 2rem;
+  margin-top: 3rem;
+  align-content: center;
+  font-size: 1.1rem;
+}
+
+.btn-iOS{
+  background-color: #26baa4;
+  border: none;
+  border-radius: 70px;
+  height: 40px;
+  width: 175px;
+  color: white;
+  display: inline-block;
+  position: relative;
+  left: 38em;
+  box-shadow: 2px 2px 2px #9e9e9e;
+}
+
+.btn-Mac{
+  background-color: #6173ff;
+  border: none;
+  border-radius: 70px;
+  height: 40px;
+  width: 175px;
+  color: white;
+  display: inline-block;
+  position: relative;
+  left: 38em;
+  box-shadow: 2px 2px 2px #9e9e9e;
+}
+
+/*****************************Computer-Image****************************/
+.computer{
+  float: left;
+  margin-right: 5rem;
+}
+
+/*****************************Computer-right-side-text*********************/
+
+.features-box{
+  line-height: 2;
+}
+
+.feature-headers{
+  text-align: left;
+  width: 80%;
+}
+
+.features-body{
+  text-align: left;
+  line-height: 1;
+  width: 80%;
+}
+
+.small-text{
+  width: 70%;
+  height: 10%;
+  margin:auto;
+}
+
+/*****************************second-Part*********************************/
+
+.first-cointiner{
+  margin-top: 15rem;
+}
+
+.Company-logos{
+  word-spacing: 7rem;
+  margin-bottom: 7rem;
+}
+
+/*******************************features*********************************/
+.features{
+  display: flex;
+  padding: 5% 10% 0 0;
+  margin-bottom: 0;
+}
+
+/*****************************footer*********************************/
+.footer-box{
+  background-color: grey;
+  height: 12rem;
+  margin-top: 5rem;
+}
+
+.column-left{
+  float: left;
+  margin-left: 7rem;
+  padding-bottom: 3rem;
+}
+
+.column-middle{
+  margin-bottom: 0;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  float: left;
+  font-size: 18px;
+  line-height: 0.001;
+}
+
+.column-right{
+  word-spacing: 2rem;
+  padding-top: 2rem;
+  margin-left: 4rem;
+}
+
+.faqs{
+ height: 0.01rem;
+ text-align: left;
+ margin-bottom: 3rem;
+}
+
+/******************************attribution*****************************/
+.attribution{
+  margin-top: 3rem;
+  text-align: center;
+}
